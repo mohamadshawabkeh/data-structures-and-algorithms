@@ -8,3 +8,4 @@ describe('Reverse', () => {
     expect(reverse(['a', 'b', 'c'])).toEqual(['c', 'b', 'a']);
   });
 });
+
